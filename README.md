@@ -1,0 +1,1 @@
+# solace-haproxy-sample
